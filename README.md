@@ -3,7 +3,7 @@ Je m'appelle <b>John Jenyo</b>
 
 #### 👽 About Me
 
-I am a <b>Cross Platform Software Engineer  - <i>Fullstack (FE)</i>  </b>with a Higher National Diploma in Mechanical Engineering, a BSc & MSc in Computer Science and a Rockstar passion for Mooovies.
+I am a <b>Cross Platform Software Engineer  - <i>Fullstack (FE)</i>  </b> who's passionate about learning.
 
 I enjoy contributing to <b>impactful projects</b>, and am greatly enthusiastic about learning new technologies.
 
